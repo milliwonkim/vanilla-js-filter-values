@@ -1,6 +1,6 @@
 {
   "name": "filterable-list",
-  "homepage": "https://milliwonkim.github.io/filter-values",
+  "homepage": "https://milliwonkim.github.io/vanilla-js-filter-values",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
