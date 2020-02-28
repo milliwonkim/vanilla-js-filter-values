@@ -1,0 +1,19 @@
+{
+  "name": "filterable-list",
+  "homepage": "https://milliwonkim.github.io/filter-values",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "predeploy": "rm -rf dist && parcel build index.html",
+    "deploy": "gh-pages -d dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^2.2.0",
+    "parcel": "^1.12.4"
+  },
+  "dependencies": {},
+  "description": ""
+}
